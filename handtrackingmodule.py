@@ -1,7 +1,7 @@
 """
 HAND TRACKING MODULE USING OPENCV AND MEDIAPIPE
 By Anmol Virdi (Self-Authored)
-Created on 17/06/21
+Created on 17/05/20
 """
 
 #Importing openCV, mediapipe and time libraries
